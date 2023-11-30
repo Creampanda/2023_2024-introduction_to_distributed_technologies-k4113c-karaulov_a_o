@@ -5,8 +5,8 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2023/2024
 Group: K4113c
 Author: Karaulov Andrey Olegovich
-Lab: Lab1
-Date of create: 27.11.2023
+Lab: Lab2
+Date of create: 28.11.2023
 Date of finished: 30.11.2023
 ```
 
@@ -115,4 +115,4 @@ Server started on port 3000
 
 ```
 
-![1701275677864](image/lab_2_report/1701275677864.png)
+![Alt text](image/lab_2_report/image.png)
